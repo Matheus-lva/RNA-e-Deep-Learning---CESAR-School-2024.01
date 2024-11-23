@@ -1,4 +1,4 @@
 # RNA-e-Deep-Learning---CESAR-School-2024.01
 
-Matheus Lobo Vaz Araúujo
+Matheus Lobo Vaz Araújo
 mlva@cesar.school
